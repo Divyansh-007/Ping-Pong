@@ -1,5 +1,5 @@
 # Ping Pong
-<b>Link:</b> https://pingpongfun.herokuapp.com/
+<b>Link:</b>  https://divyansh-007.github.io/Ping-Pong/
 
 Online recreation of classic game ping pong.
 
